@@ -1,4 +1,3 @@
 # LeetCode-Problems
-hamble tring to solve leetcode probems using Python 
-
+My humble trying to solve leetcode problems using Python
 
