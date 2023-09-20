@@ -14,6 +14,10 @@ Example 2:
 
 Input: height = [4,2,0,3,2,5]
 Output: 9
+
+To undestand more look at the images in the provided link 
+
+    Link : https://leetcode.com/problems/trapping-rain-water/description/
 """
 
 #baseclly this code uses pointers to fill line by line 
